@@ -1,0 +1,39 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color: rgb(236, 214, 152)
+}
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 187, 122);
+    text-align: center;
+}
+
+button{
+    margin-left: 1000px;
+}
+
+.parrafo1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+
+}
+
+#parrafoclick{
+    margin-left: 1000px;
+    text-align: justify;
+    margin-right: 70px;
+}
+
+.ultimoparrafo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 20px 0 20px 0;
+}
+
+.derechosreservados{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin: 70px 0 0 0;
+}
